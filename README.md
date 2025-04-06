@@ -3,3 +3,6 @@
 
  Assignment2 contains even and odd nymber 
  Assignmnet2.1 contains sum of  1 to 50 integers.
+
+Assignment3 contains Factorial of number.
+Assignment3.1 math
